@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Full Stack Engineer",
+    "startDate": "2018-12-11T05:30:45+0000",
+    "endDate": "2018-12-11T05:30:45+0000",
+    "company": "North Aeropsace",
+    "tasks": [
+      "Lead front end development of new product in React/Redux, created architecture, and designed user experience",
+      "Lead site-wide frontend migration of existing application from Polymer 1.0 to React/Redux",
+      "Built API in Node.js/Express to handle user authentication and authorization and JWT creation and validation",
+      "Managed build and deployment pipeline via Jenkins to DC/OS Mesos cluster"
+    ]
+  },
+  {
+    "title": "Lead Frontend Engineer",
+    "startDate": "2018-12-11T05:30:45+0000",
+    "endDate": "2018-12-11T05:30:45+0000",
+    "company": "North Aerospace",
+    "tasks": [
+      "Built and designed greenfield project in React/Redux. Retired existing app and delivered GA release in 6 months.",
+      "Create mobile responsive application for sea-to-air weapons platform system",
+      "Lead team of three frontend developers, assigned user stories, pair programmed, and trained",
+      "Ensured cross browser compatibility, app performance and render speed, and accessibility considerations",
+      "Automated build and deployment pipeline with custom Jenkins server"
+    ]
+  }
+]

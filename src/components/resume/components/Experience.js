@@ -48,6 +48,7 @@ const jobList = [
     company: "North Aerospace",
     tasks: [
       "Built and designed greenfield project in React/Redux. Retired existing app and delivered GA release in 6 months.",
+      "Create mobile responsive application for sea-to-air weapons platform system",
       "Lead team of three frontend developers, assigned user stories, pair programmed, and trained",
       "Ensured cross browser compatibility, app performance and render speed, and accessibility considerations",
       "Automated build and deployment pipeline with custom Jenkins server"
@@ -70,6 +71,7 @@ const jobList = [
     company: "Extendicorp",
     tasks: [
       "Oversaw integration of high value extension cords to Extendicor portofolio",
+      "Streamlined CI/CD pipeling by replacing Jenkins with in-house extension cord-based pipeline",
       "Designed, lead, and implemented a site-wide UI overhaul for externally facing application",
       "Scrum master: managed projects in TFS and lead standup, sprint planning, backlog grooming, and retrospective",
       "Created robotic process automation tools to discover $500,000 in billable payments"
